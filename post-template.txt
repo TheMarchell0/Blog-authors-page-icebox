@@ -1,0 +1,35 @@
+<!-- wp:paragraph {"className":"posts__item-gray-text"} -->
+<p class="posts__item-gray-text">preview text</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:more -->
+<!--more-->
+<!-- /wp:more -->
+
+<!-- wp:paragraph {"className":"article__gray-text"} -->
+<p class="article__gray-text"><em>gray text</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"article__info-list"} -->
+<ul class="article__info-list"><li>item</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"className":"article__perks-title"} -->
+<h2 class="article__perks-title">h2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"article__perks-list"} -->
+<ul class="article__perks-list"><li><strong>item</strong></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:gallery -->
+<ul class="wp-block-gallery columns-0 is-cropped"></ul>
+<!-- /wp:gallery -->
+
+<!-- wp:paragraph {"className":"article__swipe-text"} -->
+<p class="article__swipe-text">images text</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"article__bottom-text"} -->
+<p class="article__bottom-text">text</p>
+<!-- /wp:paragraph -->

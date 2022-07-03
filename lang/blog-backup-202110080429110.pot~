@@ -1,0 +1,257 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Purrweb Blog\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-19 03:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: index.php:9
+msgid "Our blog"
+msgstr ""
+
+#: index.php:23
+msgid "Recent"
+msgstr ""
+
+#: index.php:73 single.php:124
+msgid "Read more"
+msgstr ""
+
+#: index.php:84
+msgid "More stories coming soon"
+msgstr ""
+
+#: header.php:10 header.php:11
+msgid "Stories and tips about MVP development"
+msgstr ""
+
+#: header.php:12 header.php:13
+msgid ""
+"Find out what it's like to design and build MVP app. Discover technology "
+"trends, MVP software design and development best practices."
+msgstr ""
+
+#: header.php:60
+msgid "/portfolio/"
+msgstr ""
+
+#: header.php:61
+msgid "Projects"
+msgstr ""
+
+#: header.php:65
+msgid "/technologies/"
+msgstr ""
+
+#: header.php:66
+msgid "Technologies"
+msgstr ""
+
+#: header.php:70
+msgid "/services/"
+msgstr ""
+
+#: header.php:71
+msgid "Services"
+msgstr ""
+
+#: header.php:75
+msgid "/services/ui-ux/"
+msgstr ""
+
+#: header.php:76
+msgid "UI/UX<br>Design"
+msgstr ""
+
+#: header.php:80
+msgid "/services/react-native/"
+msgstr ""
+
+#: header.php:81
+msgid "Mobile"
+msgstr ""
+
+#: header.php:85
+msgid "/about/"
+msgstr ""
+
+#: header.php:86
+msgid "About"
+msgstr ""
+
+#: header.php:90
+msgid "/blog/"
+msgstr ""
+
+#: header.php:91
+msgid "Blog"
+msgstr ""
+
+#: header.php:110
+msgid "Request a quote"
+msgstr ""
+
+#: header.php:119
+msgid "Open/close menu"
+msgstr ""
+
+#: footer.php:9
+msgid "Let’s talk business"
+msgstr ""
+
+#: footer.php:17
+msgid "Name"
+msgstr ""
+
+#: footer.php:21
+msgid "Project details"
+msgstr ""
+
+#: footer.php:26
+msgid "Send"
+msgstr ""
+
+#: footer.php:35
+msgid "Contacts"
+msgstr ""
+
+#: footer.php:150
+msgid "Follow"
+msgstr ""
+
+#: footer.php:192
+msgid "Dmitriyeva, 1/8, Omsk, Russia, 644123"
+msgstr ""
+
+#: footer.php:198
+msgid "Purrweb. All rights reserved"
+msgstr ""
+
+#: footer.php:222
+msgid "Thanks for your inquiry. We’ll get back to you in less than 24 hours!"
+msgstr ""
+
+#: footer.php:225
+msgid "Hooray!"
+msgstr ""
+
+#: single.php:21
+msgid "Back"
+msgstr ""
+
+#. Name of the theme
+msgid "Purrweb Blog"
+msgstr ""
+
+#. Description of the theme
+msgid "Purrweb blog"
+msgstr ""
+
+#. URI of the theme
+msgid "http://wordpress.org/themes/blog"
+msgstr ""
+
+#. Author of the theme
+msgid "Ivan Zhukov"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://mysite.org/"
+msgstr ""
+
+# Linkt to WhatsApp(en, ru)
+msgid ""
+"https://api.whatsapp.com/send/?"
+"phone=14243659855&text=Hi+Purrweb%2C+I+want+you+to+help+me+with&app_absent=0"
+msgstr ""
+
+# Link to telegram(en, ru)
+msgid "https://t.me/purrweb_agency"
+msgstr ""
+
+msgid "/services/mobile-development/"
+msgstr ""
+
+msgid "Table of contens"
+msgstr ""
+
+msgid "Design"
+msgstr ""
+
+msgid "Сlient<br>Guides"
+msgstr ""
+
+msgid "Our insights"
+msgstr ""
+
+msgid "Tech"
+msgstr ""
+
+msgid "Rubricator"
+msgstr ""
+
+msgid "Case<br>Studies"
+msgstr ""
+
+msgid "Most featured"
+msgstr ""
+
+msgid "All posts"
+msgstr ""
+
+msgid "/blog/category/tech/"
+msgstr ""
+
+msgid "/blog/category/our-insights/"
+msgstr ""
+
+msgid "/blog/category/ui-ux-desing/"
+msgstr ""
+
+msgid "/blog/category/client-guides/"
+msgstr ""
+
+msgid "/blog/category/case-studies/"
+msgstr ""
+
+msgid "/blog/category/mvp/"
+msgstr ""
+
+msgid "/blog/all-posts/"
+msgstr ""
+
+msgid "Reading time:"
+msgstr ""
+
+msgid "minutes"
+msgstr ""
+
+msgid "minute"
+msgstr ""
+
+msgid "Don't have time to read?"
+msgstr ""
+
+msgid "Enter your mail and we will send the article there"
+msgstr ""
+
+msgid "Get the breakdown"
+msgstr ""
+
+msgid ""
+"Key in your e-mail address to get a full breakdown of the estimation with "
+"all details"
+msgstr ""
+
+msgid "Thank you! You will be contacted soon!"
+msgstr ""
